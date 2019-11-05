@@ -1,0 +1,16 @@
+VID  DID  SVID SDID Vendor Name                    Device Name                                        Class Name           SubClass Name        IOReg Name      IOReg IOName    Device Path
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8086 5904 17AA 3805 Intel Corporation              Xeon E3-1200 v6/7th Gen Core Processor Host Bridge Bridge               Host bridge          I0.pci8086,5904 pci8086,5904    PciRoot(0x0)/Pci(0x0,0x0) 
+8086 5916 17AA 3802 Intel Corporation              Intel HD Graphics 620                              Display controller   VGA compatible contr       PCI0.IGPU display         PciRoot(0x0)/Pci(0x2,0x0) 
+8086 9D2F 17AA 382E Intel Corporation              Sunrise Point-LP USB 3.0 xHCI Controller           Serial bus controlle USB controller              PCI0.XHC pci8086,9d2f    PciRoot(0x0)/Pci(0x14,0x0) 
+8086 9D31 17AA 381E Intel Corporation              Sunrise Point-LP Thermal subsystem                 Signal processing co Signal processing co I0.pci8086,9d31 pci8086,9d31    PciRoot(0x0)/Pci(0x14,0x2) 
+8086 9D3A 17AA 382D Intel Corporation              Sunrise Point-LP CSME HECI #1                      Communication contro Communication contro       PCI0.IMEI pci8086,9d3a    PciRoot(0x0)/Pci(0x16,0x0) 
+8086 9D03 17AA 3829 Intel Corporation              Sunrise Point-LP SATA Controller [AHCI mode]       Mass storage control SATA controller            PCI0.SAT0 pci8086,9d03    PciRoot(0x0)/Pci(0x17,0x0) 
+8086 9D14 0000 0000 Intel Corporation              Sunrise Point-LP PCI Express Root Port #5          Bridge               PCI bridge                 PCI0.RP05 pci-bridge      PciRoot(0x0)/Pci(0x1c,0x0) 
+8086 9D15 0000 0000 Intel Corporation              Sunrise Point-LP PCI Express Root Port #6          Bridge               PCI bridge                 PCI0.RP06 pci-bridge      PciRoot(0x0)/Pci(0x1c,0x5) 
+8086 9D58 17AA 3805 Intel Corporation              Sunrise Point-LP LPC Controller                    Bridge               ISA bridge                 PCI0.LPCB pci8086,9d58    PciRoot(0x0)/Pci(0x1f,0x0) 
+8086 9D21 17AA 382C Intel Corporation              Sunrise Point-LP PMC                               Memory controller    Memory controller          PCI0.PPMC pci8086,9d21    PciRoot(0x0)/Pci(0x1f,0x2) 
+8086 9D71 17AA 382C Intel Corporation              Sunrise Point-LP HD Audio                          Multimedia controlle Audio device               PCI0.HDEF pci8086,9d71    PciRoot(0x0)/Pci(0x1f,0x3) 
+8086 9D23 17AA 382C Intel Corporation              Sunrise Point-LP SMBus                             Serial bus controlle SMBus                      PCI0.SBUS pci8086,9d23    PciRoot(0x0)/Pci(0x1f,0x4) 
+10EC 8168 17AA 384C Realtek Semiconductor Co., Ltd RTL8111/8168/8411 PCI Express Gigabit Ethernet Con Network controller   Ethernet controller   PCI0.RP05.PXSX ethernet        PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0) 
+8086 3166 8086 4210 Intel Corporation              Dual Band Wireless-AC 3165 Plus Bluetooth          Network controller   Network controller    PCI0.RP06.PXSX pci8086,3166    PciRoot(0x0)/Pci(0x1c,0x5)/Pci(0x0,0x0) 
